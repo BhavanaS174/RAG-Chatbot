@@ -1,0 +1,16 @@
+1. Install Python 3.11
+
+2. Create virtual environment
+py -3.11 -m venv venv
+
+3. Activate environment
+venv\Scripts\activate
+
+4. Install dependencies
+pip install -r requirements.txt
+
+5. Run app
+streamlit run app.py
+
+6. Open browser
+http://localhost:8501
